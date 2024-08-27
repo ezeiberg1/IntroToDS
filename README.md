@@ -1,4 +1,4 @@
-# Intro to Data Science - Midterm and Final Projects
+# Intro to Data Science - Midterm and Final Projects (2022)
 
 For my midterm project, I created a linear regression model to predict the prices of Uber and Lyft fares based on the ride distance.
 
